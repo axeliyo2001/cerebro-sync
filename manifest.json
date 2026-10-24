@@ -1,0 +1,9 @@
+{
+  "id": "cerebro-sync",
+  "name": "Cerebro Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Espejo entre Obsidian y tu Cerebro: recuerdos, proyectos, tareas y decisiones.",
+  "author": "axeliyo2001",
+  "isDesktopOnly": false
+}
